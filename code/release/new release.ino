@@ -22,8 +22,8 @@
 //#define LED_RESOLUTION 8 // دقت که باید بین 1 و 16 بیت باشد
 
 // Network address and password
-const char* ssid = "oscole";
-const char* password = "111oscole";
+const char* ssid = "myNetwork";
+const char* password = "myPassword";
 
 // State strings
 int arr[5];
